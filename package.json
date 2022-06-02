@@ -1,0 +1,22 @@
+{
+  "name": "employee_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karan800/Employee_app.git"
+  },
+  "author": "Karan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karan800/Employee_app/issues"
+  },
+  "homepage": "https://github.com/Karan800/Employee_app#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
